@@ -1,1 +1,1 @@
-[CudaTExt lexer-edit docs](cudatext_lex_doc)
+* [CudaText Lexer editing Documentation copy](cudatext_lex_doc)
